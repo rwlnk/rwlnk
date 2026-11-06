@@ -8,3 +8,5 @@ Python • Git • GitHub • HTML • CSS
 
 GitHub statistikam
 ![Stats](https://github-readme-stats.vercel.app/api?username=rwlnk&show_icons=true)
+-Pull Request jarayonini o'rganyapman
+-Pull Request jarayonini o'rganyapman
